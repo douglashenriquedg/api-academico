@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Prisma client gerado
+prisma/generated/
+
+# Logs e temporários
+*.log
+dist/
